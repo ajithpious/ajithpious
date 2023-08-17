@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @ajithpious
-- 👀 I’m interested in new Technologies
 - 🌱 Working on AI/ML Techniques
 - 💞️ Looking to collaborate on Deep learning Projects
 
