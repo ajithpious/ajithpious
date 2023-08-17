@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ajithpious
 - 👀 I’m interested in new Technologies
 - 🌱 Working on AI/ML Techniques
-- 💞️ I’m looking to collaborate on Deep learning Projects
+- 💞️ Looking to collaborate on Deep learning Projects
 
 <!---
 ajithpious/ajithpious is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
